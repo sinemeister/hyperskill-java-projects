@@ -1,0 +1,3 @@
+out/
+.idea/
+hyperskill-java-projects.iml
