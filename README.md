@@ -9,6 +9,13 @@ You may find my Hyperskill profile <a href="https://hyperskill.org/profile/53164
 
 Currently on: <a href="https://hyperskill.org/tracks/8">*Introduction to Java*</a> track.
 
+## Projects
+
+All the projects in this repository:
+
+- <a href="https://github.com/sinemeister/hyperskill-java-projects/tree/main/bulls-and-cows">Chuck Norris Cipher Encoder</a>: A multiway binary to Chuck Norris Unary code encryption/decryption!
+- <a href="https://github.com/sinemeister/hyperskill-java-projects/tree/main/chuck-norris-cipher-encoder">Bulls and Cows</a>: A classic code-breaking game with OOP implementation!
+
 ## Contact
 
 Many thanks for checking this repository and the projects that I have done. Your interest is very
