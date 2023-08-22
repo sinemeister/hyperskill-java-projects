@@ -13,6 +13,7 @@ Currently on: <a href="https://hyperskill.org/tracks/8">*Introduction to Java*</
 
 All the projects in this repository:
 
+- <a href="https://github.com/sinemeister/hyperskill-java-projects/tree/main/amazing-numbers">Amazing Numbers</a>: Explore all the fun and different properties of the numbers! Implemented with OOP and algorithms.
 - <a href="https://github.com/sinemeister/hyperskill-java-projects/tree/main/bulls-and-cows">Bulls and Cows</a>: A classic code-breaking game with OOP implementation!
 - <a href="https://github.com/sinemeister/hyperskill-java-projects/tree/main/chuck-norris-cipher-encoder">Chuck Norris Cipher Encoder</a>: A multiway binary to Chuck Norris Unary code encryption/decryption!
 
