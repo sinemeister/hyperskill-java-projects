@@ -28,7 +28,7 @@ The computer will help you along the way with the features as follows:
 
 - Dynamic customization of code length and symbol range.
 - Real-time feedback on each guess.
-- Interactive gameplay that emulates the classic Bulls and Cows experience.
+- Interactive gameplay that emulates the classic Bulls and Cows experience!
 
 Let's walk through an example gameplay session:
 
