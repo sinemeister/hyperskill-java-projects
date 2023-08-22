@@ -4,12 +4,12 @@ Welcome to the Amazing Number Properties project! This is a Java project which i
 Hyperskill's <a href="https://hyperskill.org/tracks/8"><i>Introduction to Java</i></a> track. Find the details of the project 
 <a href="https://hyperskill.org/projects/184?track=8">here</a>.
 
+## About
+
 In this program, we explore the fascinating world of <a href="https://en.wikipedia.org/wiki/Recreational_mathematics">recreational mathematics</a> and 
 <a href="https://en.wikipedia.org/wiki/Number_theory">number theory</a>. 
 Numbers are an integral part of our daily lives, but did you know that they possess a myriad of interesting properties beyond their numerical values? 
 This project delves into some of these captivating number properties and provides you with the tools to identify and classify them programmatically.
-
-## About
 
 Recreational mathematics is a branch of mathematics that focuses on engaging and intriguing mathematical concepts that are not necessarily tied to practical applications. 
 It allows us to explore the aesthetic and intellectual aspects of mathematics, providing a unique perspective on numbers and their relationships.
